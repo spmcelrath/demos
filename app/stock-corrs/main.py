@@ -276,7 +276,6 @@ main_plot = row(plot, width=1200, height=810)
 main_plot.sizing_mode = "fixed"
 inputs = column(*controls, width=240, height=800)
 inputs.sizing_mode = "fixed"
-desc = Div(text=open("description.html").read(), sizing_mode="stretch_width")
 
 TOOLTIPS = [
     ("ticker", "@name"),
