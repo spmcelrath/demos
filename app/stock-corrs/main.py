@@ -159,7 +159,7 @@ sectors = get_sp500_sectors()
 stock_names = get_sp500_names()
 print(sectors)
 
-stock_ohlc_df = pd.read_csv('./stock_data1.csv')
+stock_ohlc_df = pd.read_csv('https://raw.githubusercontent.com/spmcelrath/demos/main/app/stock-corrs/stock_data1.csv')
 stock_ohlc_df = stock_ohlc_df.set_index('Date')
 
 
