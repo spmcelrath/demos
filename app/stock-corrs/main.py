@@ -10,7 +10,6 @@ from bokeh.layouts import column, layout, row, widgetbox, column, Spacer
 from bokeh.models import ColumnDataSource, Div, Select, Slider, TextInput, RangeSlider, Slider, MultiChoice, Label, Band, Segment, BooleanFilter, CDSView, Select, DataTable, DateFormatter, TableColumn, NumeralTickFormatter, Panel, Tabs
 from bokeh.io import show
 from bokeh.models import Button, CheckboxButtonGroup, DatePicker, CustomJS, Toggle
-import fontawesome as fa
 import pandas as pd
 import numpy as np
 import networkx as nx
