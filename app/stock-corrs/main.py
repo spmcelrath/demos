@@ -145,7 +145,7 @@ def locked_update(itr):
     date_picker.value = dates[itr]
     new_coords = recursive_mds(end_date=dates[itr])
     new_x, new_y = list(new_coords[:, 0]), list(new_coords[:, 1])
-    ds.data = dict(x=new_x, y=new_y, name=init_names, full_name=init_full_names, size=init_sizes, sector=init_sectors, label_offset=init_offsets)
+    ds.data = dict(x=new_x, y=new_y, name=init_names, full_name=init_full_names, size=init_sizes, sector=init_sectors, category=init_categories, label_offset=init_offsets)
     fixed_positions = dict(zip(init_names, list(zip(new_x, new_y))))
     graph_renderer.layout_provider.graph_layout = fixed_positions
     
@@ -821,7 +821,7 @@ iqr_p.legend.label_text_font_size = '8pt'
 index_source = ColumnDataSource(dict(x=ohlc_df.index, y=ohlc_df['CCI30']))
 
 index_p = figure(plot_height=200, plot_width=420, x_range=(pd.to_datetime('2019-01-22'), pd.to_datetime('2020-11-22')), x_axis_type="datetime", tools='box_select', background_fill_color="#fafafa", toolbar_location=None, y_axis_location="right", margin=(5, 5, 5, 5), y_axis_type='log')
-index_line = index_p.line(x='x', y='y', color='grey', line_alpha=0.8, source=index_source)
+index_line = index_p.line('x', 'y', color='grey', line_alpha=0.8, source=index_source)
 
 index_p.yaxis.minor_tick_line_color = None
 index_p.legend.location = "top_left"
@@ -988,7 +988,16 @@ index_select = Select(title="Benchmark:", value="CCI30 (The Cryptocurrencies Ind
 
 def is_callback(attr, old, new):
     symbol = new.split(' ')[0]
-    index_source.data = dict(x=ohlc_df.index, y=ohlc_df[symbol])
+    print(symbol)
+    index_source.data = dict(x=stock_ohlc_df.index, y=stock_ohlc_df[symbol])
+    
+    stats_source.data['benchmark'] = [
+            str(round(qs.stats.comp(stock_ohlc_df[symbol][pd.to_datetime('2019-01-22'):].pct_change())*100, 4)) + '%',
+            round(qs.stats.sharpe(stock_ohlc_df[pd.to_datetime('2019-01-22'):][symbol].pct_change()), 4),
+            round(qs.stats.sortino(stock_ohlc_df[pd.to_datetime('2019-01-22'):][symbol].pct_change()), 4),
+            str(round(qs.stats.max_drawdown(stock_ohlc_df[symbol][pd.to_datetime('2019-01-22'):])*100, 4)) + '%',
+            round(qs.stats.volatility(stock_ohlc_df[pd.to_datetime('2019-01-22'):][symbol].pct_change(), annualize=False), 4)
+            ]
 
 
 index_select.on_change('value', is_callback)
