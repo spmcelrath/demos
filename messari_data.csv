@@ -1,0 +1,500 @@
+symbol,name,slug,marketcap,sector,mc
+BTC,Bitcoin,bitcoin,1.10179E+12,Currencies,331.9317956
+ETH,Ethereum,ethereum,2.4142E+11,Smart Contract Platforms,155.3770919
+BNB,BNB,binance-coin,57672132814,Centralized Exchanges,75.94217064
+USDT,Tether,tether,43647130646,Stablecoins,66.06597509
+DOT,Polkadot,polkadot,41143806276,Smart Contract Platforms,64.14343792
+ADA,Cardano,cardano,38578082221,Smart Contract Platforms,62.11125681
+XRP,XRP,xrp,27424076840,Currencies,52.36800248
+UNI,Uniswap,uniswap,16256936184,Decentralized Exchanges,40.3198911
+LTC,Litecoin,litecoin,14018553104,Currencies,37.44135829
+LINK,Chainlink,chainlink,13066694409,Data Management,36.14788294
+BCH,Bitcoin Cash,bitcoin-cash,11774209000,Currencies,34.31356729
+THETA,Theta Token,theta-token,11663162339,Content Creation and Distribution,34.15137236
+FIL,Filecoin,filecoin,11526673402,File Storage,33.95095492
+BTT,BitTorrent,bittorrent,11193048225,Misc,33.45601325
+USDC,USD Coin,usd-coin,10858608280,Stablecoins,32.95240246
+TRX,TRON,tron,9243247621,Smart Contract Platforms,30.40270978
+XLM,Stellar,stellar,8634907825,Currencies,29.38521367
+WBTC,Wrapped Bitcoin,wrapped-bitcoin,8281934373,None,28.77835015
+DOGE,Dogecoin,dogecoin,7458490496,Currencies,27.31023708
+LUNA,Terra,terra,7074206326,Payment Platforms,26.59738018
+VET,VeChain,vechain,6690348980,Smart Contract Platforms,25.86570892
+SOL,Solana,solana,6445960042,Smart Contract Platforms,25.38889529
+EOS,EOS,eos,6108752162,Smart Contract Platforms,24.71588995
+CRO,Crypto.com Chain,crypto-com-chain,5566905813,Payment Platforms,23.59429129
+HOT,Hydro Protocol,hydro-protocol,21633541.97,Decentralized Exchanges,10
+AAVE,Aave,aave,5031676622,Lending,22.43139902
+MIOTA,IOTA,iota,4749092498,IoT,21.79241267
+XMR,Monero,monero,4724138923,Currencies,21.73508436
+ATOM,Cosmos,cosmos,4590259163,Smart Contract Platforms,21.42489011
+BSV,Bitcoin SV,bitcoin-sv,4472190156,Currencies,21.14755342
+AVAX,Avalanche,avalanche,4087583284,Smart Contract Platforms,20.21777259
+BUSD,Binance USD,binance-usd,4026059588,Stablecoins,20.06504321
+XTZ,Tezos,tezos,4021310113,Smart Contract Platforms,20.05320452
+FTT,FTX Token,ftx-token,3998884699,Centralized Exchanges,19.99721155
+NEO,NEO,neo,3983707399,Smart Contract Platforms,19.95922694
+KSM,Kusama,kusama,3808551373,Smart Contract Platforms,19.51551017
+ALGO,Algorand,algorand,3624738860,Smart Contract Platforms,19.03874697
+XEM,NEM,new-economy-movement,3451862402,Smart Contract Platforms,18.57918836
+DAI,Dai,dai,3183314051,Stablecoins,17.84184422
+HT,Huobi Token,huobi-token,3104668094,Centralized Exchanges,17.62006837
+EGLD,Elrond,elrond,2900914890,Smart Contract Platforms,17.03207236
+DASH,Dash,dash,2676772366,Currencies,16.36084462
+CHZ,Chiliz,chiliz,2652175207,Misc,16.28550032
+CAKE,PancakeSwap,pancakeswap,2623197238,Decentralized Exchanges,16.19628735
+COMP,Compound,compound,2614570539,Lending,16.1696337
+HBAR,Hedera Hashgraph,hedera-hashgraph,2553065670,Smart Contract Platforms,15.97831552
+STX,Stacks,stacks,2458793854,Smart Contract Platforms,15.68054162
+RUNE,THORChain,thorchain,2448563460,Decentralized Exchanges,15.64788631
+DCR,Decred,decred,2447080187,Currencies,15.64314606
+CVNT,Content Value Network,content-value-network,2400545178,Content Creation and Distribution,15.49369284
+SNX,Synthetix,synthetix,2383272333,Derivatives,15.43785067
+ZIL,Zilliqa,zilliqa,2367099448,Smart Contract Platforms,15.38538088
+MKR,Maker,maker,2317962781,Lending,15.22485724
+GRT,The Graph,the-graph,2253707071,Data Management,15.01235182
+NEAR,NEAR Protocol,near-protocol,2106172787,Smart Contract Platforms,14.51265926
+ENJ,Enjin Coin,enjin-coin,2071050427,Gaming,14.39114459
+TFUEL,Theta Fuel,theta-fuel,2057254461,Content Creation and Distribution,14.34313237
+LEO,Unus Sed Leo,unus-sed-leo,2025708835,Centralized Exchanges,14.23273984
+ZEC,Zcash,zcash,2006700709,Currencies,14.1658064
+SUSHI,SushiSwap,sushiswap,1961121867,Decentralized Exchanges,14.00400609
+DENT,Dent,dent,1911423986,Data Management,13.8254258
+ETC,Ethereum Classic,ethereum-classic,1882864467,Smart Contract Platforms,13.72175086
+MATIC,Polygon,polygon,1832575387,Scaling,13.53726481
+BAT,Basic Attention Token,basic-attention-token,1809848701,Advertising,13.45306174
+UST,TerraUSD,terrausd,1691751260,Stablecoins,13.00673387
+SC,Siacoin,siacoin,1631031017,File Storage,12.77118247
+RVN,Ravencoin,ravencoin,1602872575,Currencies,12.6604604
+ICX,ICON,icon,1587279816,Enterprise and BaaS,12.59872936
+MANA,Decentraland,decentraland,1586477491,Virtual and Augmented Reality,12.59554481
+NPXS,Pundi X,pundi-x,1565153244,Payment Platforms,12.51060847
+NEXO,Nexo,nexo,1563130585,Lending,12.50252209
+UMA,UMA,uma,1529103946,Derivatives,12.36569426
+ONE,Harmony,harmony,1503509939,Smart Contract Platforms,12.26176961
+ONT,Ontology,ontology,1476700130,Smart Contract Platforms,12.15195511
+CEL,Celsius Network,celsius,1417208480,Lending,11.90465657
+YFI,yearn.finance,yearn-finance,1394466827,Asset Management,11.80875449
+ZRX,0x,0x,1390139461,Decentralized Exchanges,11.79041756
+DFI,DeFiChain,defichain,1379098004,Decentralized Exchanges,11.74350035
+BNT,Bancor,bancor,1323856292,Decentralized Exchanges,11.50589541
+WAVES,Waves,waves,1314796828,Smart Contract Platforms,11.46645904
+DGB,DigiByte,digibyte,1300343303,Currencies,11.40325963
+HNT,Helium,helium,1242393756,IoT,11.14627182
+FLOW,Flow,flow,1207374522,Smart Contract Platforms,10.98805953
+RSR,Reserve Rights,reserve-rights,1158569328,Asset Management,10.76368584
+OMG,OMG Network,omg-network,1153991109,Scaling,10.74239782
+ANKR,Ankr Network,ankr-network,1148379753,Shared Compute,10.71624819
+CHSB,Swissborg,swissborg,1103115897,Asset Management,10.50293243
+QTUM,Qtum,qtum,1102179121,Smart Contract Platforms,10.49847189
+WRX,WazirX,wazirx,1090520310,Centralized Exchanges,10.44279804
+XWC,WhiteCoin,whitecoin,1081777551,Currencies,10.40085358
+FTM,Fantom,fantom,1068979390,Smart Contract Platforms,10.33914595
+REN,Ren,ren,1062043914,Interoperability,10.30555148
+R,Revain,revain,1059895431,Misc,10.2951223
+OKB,OKB,okb,1055423090,Centralized Exchanges,10.27337866
+ETHOS,Ethos,ethos,1004766117,Wallet,10.02380226
+PAX,Paxos Standard Token,paxos-standard-token,978466673.3,Stablecoins,10
+AR,Arweave,arweave,936832873.9,File Storage,10
+CELO,Celo,celo,933631034.3,Smart Contract Platforms,10
+IOST,IOST,iost,903075881.8,Smart Contract Platforms,10
+CKB,Nervos Network,nervos-network,873423091,Smart Contract Platforms,10
+DODO,DODO,dodo,850074179,Decentralized Exchanges,10
+CRV,Curve,curve,842950737.9,Decentralized Exchanges,10
+HUSD,HUSD,husd,785755920,Stablecoins,10
+LSK,Lisk,lisk,768642316.1,Application Development,10
+1INCH,1inch,1inch,766974169.2,Decentralized Exchanges,10
+XVG,Verge,verge,756840304.8,Currencies,10
+LPT,Livepeer,livepeer,748804326.1,Shared Compute,10
+ZEN,Horizen,horizen,746060561.8,Smart Contract Platforms,10
+STMX,StormX,storm,745708884.5,Rewards,10
+STORJ,Storj,storj,744255293.9,File Storage,10
+KIN,Kin,kin,740302601.5,Social Media,10
+NANO,Nano,nano,738256750.8,Currencies,10
+BTG,Bitcoin Gold,bitcoin-gold,737223593,Currencies,10
+KCS,KuCoin,kucoin,718528847.6,Centralized Exchanges,10
+KNC,Kyber Network,kyber-network,714846536.6,Decentralized Exchanges,10
+LRC,Loopring,loopring,705864519.2,Decentralized Exchanges,10
+ZKS,ZKS,zks,694122123.8,Decentralized Exchanges,10
+RENBTC,renBTC,renbtc,681803509,Currencies,10
+OCEAN,Ocean Protocol,ocean-protocol,670258626.5,Data Management,10
+MED,MediBloc,medibloc-qrc20,628481281.5,None,10
+XDCE,XinFin Network,xinfin-network,618126084,None,10
+ETN,Electroneum,electroneum,608772619.5,Payment Platforms,10
+HEDG,HedgeTrade,hedgetrade,607956140.9,None,10
+GNT,Golem,golem,588902817.3,Shared Compute,10
+VTHO,VeThor Token,vethor-token,587780426.3,None,10
+SNT,Status,status,587671298.4,Application Development,10
+FUN,FunFair,funfair,561413311.7,Gambling,10
+XVS,VENUS,venus,538971203.3,Lending,10
+ALPHA,Alpha Finance,alpha-finance,511804319,Asset Management,10
+FET,Fetch.ai,fetch-ai,507120970.3,AI,10
+IOTX,IoTeX,iotex,504182384.5,IoT,10
+MAID,Maidsafe,maidsafe,501333773.7,Data Management,10
+SKL,SKALE Network,skale-network,494699856.6,Scaling,10
+EWT,Energy Web,energy-web,490060069.8,Energy,10
+ANT,Aragon Network,aragon-network,487250207.7,Misc,10
+SAND,The Sandbox,thesandbox,479780273.4,Gaming,10
+LINA,Linear,linear,473689350.4,Decentralized Exchanges,10
+ORBS,Orbs,orbs,467560697.1,Enterprise and BaaS,10
+QNT,Quant Network,quant-network,465752983.4,Interoperability,10
+REP,Augur,augur,458073549,Prediction Markets,10
+MIR,Mirror Protocol,mirror-protocol,453946148.7,None,10
+REEF,Reef Finance,reef-finance,449276375.2,Asset Management,10
+XIN,Mixin,mixin,442180661.9,Decentralized Exchanges,10
+SXP,Swipe,swipe,439727946.3,Payment Platforms,10
+CVC,Civic,civic,434689328.5,Identity,10
+CELR,Celer Network,celer-network,434303819.3,Scaling,10
+BTS,BitShares,bitshares,432940588.1,Smart Contract Platforms,10
+KAVA,Kava,kava,430268988.3,Lending,10
+AXS,Axie Infinity,axie-infinity,428329889.2,Gaming,10
+TEL,Telcoin,telcoin,419356163.5,Payment Platforms,10
+BAL,Balancer,balancer,418197654.7,Decentralized Exchanges,10
+WAXP,WAX,wax,400771045.1,Collectibles,10
+RFOX,RedFOX Labs,redfox-labs,398315925.9,Tokenization,10
+MTL,Metal,metal,395104402.3,Payment Platforms,10
+JST,JUST,just,393810013.1,Decentralized Exchanges,10
+ORN,Orion Protocol,orion-protocol,393129667.7,None,10
+STEEM,Steem,steem,388264239.3,Content Creation and Distribution,10
+ARDR,Ardor,ardor,385013191.9,Smart Contract Platforms,10
+BAND,Band Protocol,band-protocol,380968160.1,Prediction Markets,10
+AGI,SingularityNET,singularitynet,371791993.6,AI,10
+BADGER,Badger DAO,badger-dao,367204956.1,Decentralized Exchanges,10
+META,Metadium,metadium,357178167.6,Identity,10
+NMR,Numeraire,numeraire,355442641.3,Asset Management,10
+POLY,Polymath,polymath,350586675.3,Asset Management,10
+KEEP,Keep Network,keep-network,349689324,Interoperability,10
+SWAP,TrustSwap,trustswap,349423141.1,None,10
+AUDIO,Audius,audius,348461686.5,Content Creation and Distribution,10
+KMD,Komodo,komodo,335200262,Interoperability,10
+WAN,Wanchain,wanchain,333798507.6,Interoperability,10
+SFP,SafePal,safepal,330019390.3,Wallet,10
+OXT,Orchid,orchid,328748344.6,Data Management,10
+SRM,Serum,serum,322617334.2,Decentralized Exchanges,10
+TUSD,TrueUSD,trueusd,319377795.6,Stablecoins,10
+ARK,Ark,ark,317248555.9,Interoperability,10
+ROSE,Oasis Network,oasis-labs,314651829,Smart Contract Platforms,10
+NKN,NKN,nkn,313491138.3,IoT,10
+QKC,Quarkchain,quarkchain,306242845.6,Smart Contract Platforms,10
+UTK,UTRUST,utrust,305260326.1,Payment Platforms,10
+MFT,Mainframe,mainframe,301312975.5,Lending,10
+XOR,Sora,sora,298010440.9,Smart Contract Platforms,10
+TRAC,Origintrail,origintrail,289316153.4,Data Management,10
+BORA,BORA,bora,288088344.6,None,10
+CVT,CyberVein,cybervein,286625814.1,Data Management,10
+BTM,Bytom,bytom,282825041.4,Smart Contract Platforms,10
+AMP,Amp,amp,276478191.9,Payment Platforms,10
+DIME,Dimecoin,dimecoin,275763960.2,None,10
+HIVE,Hive,hive,272714776.5,Content Creation and Distribution,10
+AVA,Travala.com,travala-com,272677078.8,Payment Platforms,10
+MCO,Crypto.com,crypto-com,269254815.5,Payment Platforms,10
+EDC,E-Dinar Coin,e-dinar-coin,267422788.5,None,10
+TROY,Troy Trade,troy-trade,267406090.4,Asset Management,10
+POLS,Polkastarter,polkastarter,265279334.5,Crowdfunding,10
+TOMO,TomoChain,tomochain,262325043.2,Smart Contract Platforms,10
+UBT,Unibright,unibright-1,262199914.2,None,10
+ELF,ælf,aelf,261029039.9,Shared Compute,10
+NU,NuCypher,nucypher,259592216,Data Management,10
+BCD,Bitcoin Diamond,bitcoin-diamond,259057578.8,Currencies,10
+GNO,Gnosis,gnosis,258775095.4,Prediction Markets,10
+RAY,Raydium,raydium,257424242.8,Decentralized Exchanges,10
+DAWN,Dawn,dawn,255159429.5,Rewards,10
+RIF,RIF Token,rif-token,251979353,Application Development,10
+ALICE,Alice,alice,250536349.9,Gaming,10
+RLC,iExec RLC,iexec-rlc,245879537.6,Shared Compute,10
+HNS,Handshake,handshake,240993683.4,Misc,10
+PPT,Populous,populous,239369179.8,Payment Platforms,10
+XHV,Haven Protocol,haven-protocol,238793514.5,None,10
+POWR,Power Ledger,power-ledger,235276048.2,Energy,10
+SCRT,Secret Network,secret-network,233096791.1,Smart Contract Platforms,10
+LTO,LTO Network,lto-network,230511025.8,Enterprise and BaaS,10
+RDD,ReddCoin,reddcoin,228990616.7,Currencies,10
+SYS,Syscoin,syscoin,228920841.8,Scaling,10
+PRQ,PARSIQ,parsiq,228800990.9,None,10
+USDN,Neutrino Dollar,neutrino-dollar,223604401.9,Stablecoins,10
+DMD,Diamond,diamond,220567768.4,None,10
+LOOM,Loom Network,loom-network,219806996.7,Enterprise and BaaS,10
+AION,The Open Application Network,the-open-application-network,216451584.9,Smart Contract Platforms,10
+IRIS,IRISnet,iris-network,214588375.5,Interoperability,10
+TT,Thunder Token,thunder-token,214316077.3,Smart Contract Platforms,10
+SIC,Swisscoin,swisscoin,213409750.8,None,10
+INJ,Injective Protocol,injective-protocol,210614411.4,Derivatives,10
+AMPL,Ampleforth,ampleforth,210032731.8,Stablecoins,10
+AKRO,Akropolis,akropolis,203321262.4,Lending,10
+BCN,Bytecoin,bytecoin,199426106.1,Currencies,10
+PERP,Perpetual Protocol,perpetual-protocol,193945311.3,Derivatives,10
+ZB,ZB,zb,193752015,Centralized Exchanges,10
+MLN,Enzyme Finance,enzyme-finance,192566007.3,Asset Management,10
+CTSI,Cartesi,cartesi,192343410.5,Smart Contract Platforms,10
+LAMB,Lambda,lambda,192198896.6,File Storage,10
+DNT,district0x,district0x,187186153,Application Development,10
+RPL,Rocket Pool,rocket-pool,179230684.2,Derivatives,10
+,DxChain,dxchain,178293350.3,None,10
+WHALE,Whale,whale,176647805.1,Misc,10
+RFR,Refereum,refereum,171206676.8,Gaming,10
+MITH,Mithril,mithril,168666798.4,Social Media,10
+ADX,Adex,adex,168534439.1,Advertising,10
+DATA,Streamr,streamr,166652931.5,Data Management,10
+LON,Tokenlon,tokenlon,166100641.6,Decentralized Exchanges,10
+UOS,Ultra,ultra,164296914.2,Gaming,10
+bzrx,bZx Network,bzx-network,160909834.6,Lending,10
+TVK,Terra Virtua Kolect,terra-virtua-kolect,160519812.1,Tokenization,10
+IGNIS,Ignis,ignis,159233405,Application Development,10
+EDO,Eidoo,eidoo,158319010.8,Centralized Exchanges,10
+VSP,VSP,vsp,158058243.2,Decentralized Exchanges,10
+UQC,Uquid Coin,uquid-coin,155620768,None,10
+CHR,Chromia,chromia,155287457.3,Application Development,10
+REQ,Request Network,request-network,155228825.3,Misc,10
+SUPER,SuperCoin,supercoin,154708126.1,None,10
+VRA,Verasity,verasity-1,152214136.1,None,10
+RAMP,RAMP,ramp,151618020.5,Interoperability,10
+RLY,Rally,rally,150259189.8,Tokenization,10
+ABBC,ABBC Coin,abbc-coin,150196921.9,Payment Platforms,10
+NRG,Energi,energi,150159260.5,Smart Contract Platforms,10
+DUSK,Dusk Network,dusk-network,148603971.7,Smart Contract Platforms,10
+SFI,Saffron,saffron,148033132.5,Derivatives,10
+SOLVE,Solve Care,solve-care,147811418.5,Healthcare,10
+DEGO,Dego Finance,dego-finance,147378038.4,None,10
+GAS,NEO GAS,neo-gas,146773689.4,Smart Contract Platforms,10
+FARM,Harvest Finance,harvest-finance,146172746.9,Asset Management,10
+BEL,Bella,bella,145631713.2,Asset Management,10
+DIA,DIA,dia,144936080.1,Data Management,10
+SUSD,Synthetix USD,synthetix-usd,143985577.4,Stablecoins,10
+BLZ,Bluzelle,bluzelle,143653332.4,File Storage,10
+NULS,NULS,nuls,143467879,Enterprise and BaaS,10
+STAKE,xDai,xdai,139581536.6,Scaling,10
+FIRO,Firo,firo,137569551.5,Currencies,10
+WTC,Waltonchain,waltonchain,137486844.6,IoT,10
+MONA,Monacoin,monacoin,135839171.3,Currencies,10
+CTK,CertiK,certik,134455270.3,Smart Contract Platforms,10
+PERL,Perlin,perlin,133912957.7,None,10
+OM,MANTRA DAO,mantra-dao,130278764.8,Lending,10
+REVV,REVV,revv,130226191.4,Gaming,10
+ELA,Elastos,elastos,129381783.4,Smart Contract Platforms,10
+HARD,HARD Protocol,hard-protocol,127309934.3,Lending,10
+DRGN,Dragonchain,dragonchain,127047641.7,Enterprise and BaaS,10
+API3,API3,api3,126605878,None,10
+UPP,Sentinel Protocol,sentinel-protocol,126172823.2,Security,10
+GUSD,Gemini Dollar,gemini-dollar,125546767.9,Stablecoins,10
+LOC,LockTrip,locktrip,123376924.2,Payment Platforms,10
+MXC,MXC,machine-xchange-coin,121551529.1,None,10
+RING,Darwinia Network,darwinia-network,120849376.1,Interoperability,10
+LBC,LBRY Credits,lbry-credits,120762111.3,Content Creation and Distribution,10
+NEST,Nest Protocol,nest-protocol,120486847.3,Data Management,10
+VSYS,V Systems,v-systems,120304411.5,Application Development,10
+TRB,Tellor,tellor,118408139.8,Data Management,10
+RGT,Rari Governance Token,rari-governance-token,118122159.7,Asset Management,10
+PCX,ChainX,chainx,117290037.9,Interoperability,10
+FRAX,FRAX,frax,115844668.9,Stablecoins,10
+STOX,Stox,stox,114908219,None,10
+PIVX,PIVX,pivx,112755492.3,Currencies,10
+YFII,DFI.Money,dfi-money,112618716.1,Asset Management,10
+BEAM,Beam,beam,109279547.3,Wallet,10
+VITE,VITE,vite,109112385.6,Smart Contract Platforms,10
+EXRD,RADIX,radix,108409067.9,Smart Contract Platforms,10
+AERGO,Aergo,aergo,107889438.7,Enterprise and BaaS,10
+NXS,Nexus,nexus-2,107682264,Enterprise and BaaS,10
+FRONT,Frontier,frontier,105647151.5,Asset Management,10
+PAXG,PAX Gold,pax-gold,104799654.9,None,10
+SPND,Spendchain,spendcoin,104130872.7,Payment Platforms,10
+SUKU,SUKU,suku,102437786.1,Enterprise and BaaS,10
+HEGIC,Hegic,hegic,100764063.8,Derivatives,10
+CND,Cindicator,cindicator,100355998.1,Asset Management,10
+AOA,Aurora,aurora,99610415.62,None,10
+DOCK,Dock,dock,98948365.01,Data Management,10
+PHX,Red Pulse Phoenix,red-pulse-phoenix,95364422.56,Content Creation and Distribution,10
+DAG,Constellation Labs,constellation-labs,94906936.36,Data Management,10
+SKY,Skycoin,skycoin,94473226.76,Application Development,10
+MOC,Moss Coin,moss-coin,93147775.31,Virtual and Augmented Reality,10
+GRS,Groestlcoin,groestlcoin,92803057.69,Currencies,10
+NFTX,NFTX,nftx,92694459,Tokenization,10
+IDEX,IDEX,idex,92505158.85,Decentralized Exchanges,10
+HXRO,Hxro,hxro-games,92363436.29,Centralized Exchanges,10
+ESD,Empty Set Dollar,empty-set-dollar,92017605.18,Stablecoins,10
+QSP,Quantstamp,quantstamp,91436500.21,Security,10
+WICC,WaykiChain,waykichain,90776178.01,Smart Contract Platforms,10
+EMC2,Einsteinium,einsteinium,90335896.55,Currencies,10
+HPT,Huobi Pool Token,huobi-pool-token,90069504.44,None,10
+CREAM,Cream,cream,89920562.6,Lending,10
+FXS,Frax Share,frax-share,89424949.66,Stablecoins,10
+DCN,Dentacoin,dentacoin,88500092.9,Misc,10
+TMTG,The Midas Touch Gold,the-midas-touch-gold,88061492.49,None,10
+CTXC,Cortex,cortex,87460555.35,AI,10
+GTO,GIFTO,gifto,85141117.64,Content Creation and Distribution,10
+BOND,BarnBridge,barnbridge,84939805.81,Derivatives,10
+RCN,Ripio Credit Network,ripio-credit-network,84671734.64,Lending,10
+DAC,Davinci Coin,davinci-coin,83759879.95,Infrastructure,10
+AE,Aeternity,aeternity,83223412.8,Smart Contract Platforms,10
+DMT,DMarket,dmarket,82897668.61,Gaming,10
+AST,AirSwap,airswap,82457981.46,Decentralized Exchanges,10
+BDP,Big Data Protocol,big-data-protocol,80752721.2,Data Management,10
+KYL,Kylin Network,kylin-network,79975751.84,Data Management,10
+INSUR,InsurAce,insurace,78544618.95,Payment Platforms,10
+PNT,pNetwork,pnetwork,78462431.86,Decentralized Exchanges,10
+MEME,Meme,meme,78015560.9,Gaming,10
+OCTO,OctoFi,octofi,77723333.18,Asset Management,10
+GO,GoChain,gochain,77698491.74,Enterprise and BaaS,10
+KDA,Kadena,kadena,76581496.04,Smart Contract Platforms,10
+GXC,GXChain,gxchain,74646283.57,Data Management,10
+NAS,Nebulas,nebulas,73208416.75,Smart Contract Platforms,10
+EASY,EasyFi,easyfi,71973702.15,Lending,10
+SWINGBY,SWINGBY,swingby,71654798.48,Currencies,10
+WABI,Tael,tael,71390585.3,Rewards,10
+DORA,DORA,dora,71064089.61,Information,10
+FSN,Fusion,fusion,70852664.76,Interoperability,10
+TRU,TrueFi,truefi,69689949.68,Lending,10
+NCASH,Nucleus Vision,nucleus-vision,68997532.74,IoT,10
+CAS,Cashaa,cashaa,68628389.72,Asset Management,10
+SOUL,Phantasma,phantasma,68135424.34,Smart Contract Platforms,10
+NXT,Nxt,nxt,68066811.37,Smart Contract Platforms,10
+FXF,FXF,fxf,67242599.14,Asset Management,10
+MDT,Measurable Data Token,measurable-data-token,65611929.85,Data Management,10
+LABS,LABS,labs,65497188.92,Tokenization,10
+BMI,Bridge Mutual Coin,bridge-mutual-coin,63552610.09,Decentralized Exchanges,10
+GRIN,Grin,grin,62914425.33,Currencies,10
+XRT,Robonomics Network,robonomics-network,62154225.2,IoT,10
+CVP,PowerPool,powerpool,61814396.29,Misc,10
+RAD,Radicle,radicle,60233286.6,Application Development,10
+RDN,Raiden Network,raiden-network,59863405.9,Scaling,10
+GHST,Aavegotchi,aavegotchi,59857479.32,Gaming,10
+CORE,cVault.finance,cvault-finance,58575285.31,None,10
+NEBL,Neblio,neblio,57857680.99,Enterprise and BaaS,10
+NAV,NavCoin,navcoin,57407910.85,Currencies,10
+PAI,Project PAI,project-pai,57179254.02,AI,10
+PRO,Propy,propy,57132008.62,Payment Platforms,10
+SBD,Steem Dollars,steem-dollars,57113660.61,Stablecoins,10
+EURS,Stasis Euro,stasis-euro,55670529.46,Stablecoins,10
+KAN,BitKan,bitkan,55549265.8,Information,10
+TRTL,Turtlecoin,turtlecoin,55368324.71,Currencies,10
+PNK,Kleros,kleros-1,54709085.77,None,10
+XSN,Stakenet,stakenet,54247937.06,Interoperability,10
+MTA,Meta,meta,53884746.22,Asset Management,10
+GAME,GameCredits,gamecredits,52097155.1,Gaming,10
+MPH,88mph,88mph,50943815.61,Asset Management,10
+QASH,Qash,qash,50895426.22,Centralized Exchanges,10
+DF,dForce,dforce,49560082.61,None,10
+SENT,Sentinel,sentinel,48971607.79,Shared Compute,10
+ZAP,Zap,zap,48958635.73,None,10
+RBTC,RSK Smart Bitcoin,rsk-smart-bitcoin,48956291.04,None,10
+BNK,Bankera,bankera-1,47600659.13,None,10
+KP3R,Keep3rV1,keep3rv1,47543261.69,None,10
+TCT,TokenClub,tokenclub,47110876.02,Asset Management,10
+GVT,Genesis Vision,genesis-vision,47034814.2,Asset Management,10
+BAX,BABB,babb-1,46478697.99,None,10
+RBC,Rubic,rubic,46286950.3,Decentralized Exchanges,10
+BFT,BnkToTheFuture,bnktothefuture,45908725.78,Asset Management,10
+BZ,Bit-Z Token,bit-z-token,45714997.35,Centralized Exchanges,10
+BRD,Bread,bread,44814066.99,Wallet,10
+DIGG,DIGG,digg,44691383.65,Stablecoins,10
+LYM,Lympo,lympo,44511234.01,Data Management,10
+AMB,Ambrosus,ambrosus,44253644.97,None,10
+SOC,All Sports,all-sports,44070799.59,Misc,10
+BTU,BTU Protocol,btu-protocol,43818681.01,Rewards,10
+OAX,OAX,oax,43566438.98,Decentralized Exchanges,10
+FXC,Flexacoin,flexacoin,43444928.75,Payment Platforms,10
+DERO,Dero,dero,42984286.63,Smart Contract Platforms,10
+MOON,Moonswap,moonswap,42148470.93,None,10
+MUSE,MUSE,muse,42094063.23,Tokenization,10
+APY,APY.Finance ,apy-finance,42085451.44,Asset Management,10
+VTC,Vertcoin,vertcoin,41634476.75,Currencies,10
+DGD,DigixDAO,digixdao,41514040.29,Tokenization,10
+APPC,AppCoins,appcoins,41275246.73,Payment Platforms,10
+SIX,SIX,six,40467594.54,None,10
+WPR,WePower,wepower,40259286.99,Energy,10
+SALT,SALT,salt,39511226.1,Lending,10
+PTF,PowerTrade Fuel,powertrade-fuel,39307554.97,Derivatives,10
+POA,POA Network,poa-network,37819191.9,Scaling,10
+MOF,Molecular Future,molecular-future,37787353.23,Misc,10
+UFT,UniLend,unilend,37539068.08,Lending,10
+DBC,DeepBrain Chain,deepbrain-chain,37479740.41,AI,10
+DHT,dHEDGE,dhedge,37408406.51,Asset Management,10
+CUDOS,Cudos,cudos,37299208.22,Shared Compute,10
+MET,Metronome,metronome,37185236.18,Interoperability,10
+PI,PCHAIN,pchain,37137760.07,None,10
+MATTER,MATTER,matter,36661824.11,Derivatives,10
+CRPT,Crypterium,crypterium,36598220.78,Payment Platforms,10
+KAT,Kambria,kambria,35580149.08,,10
+BAO,BAO token,bao-token,34879009.79,Decentralized Exchanges,10
+CDT,Blox,blox,34620338.94,Asset Management,10
+OST,OpenST,openst,34601750.15,Smart Contract Platforms,10
+PRE,Presearch,presearch,34193823.98,None,10
+MTH,Monetha,monetha,33732805.24,Enterprise and BaaS,10
+RARI,Rarible,rarible,33071518.3,Tokenization,10
+PAY,TenX Pay Token,pay-token,32890738.03,Payment Platforms,10
+BOS,BOScoin,boscoin-1,32851259.18,None,10
+QRL,Quantum Resistant Ledger,quantum-resistant-ledger,32428086.82,Application Development,10
+VIA,Viacoin,viacoin,31782952.66,Currencies,10
+USDK,USDK,usdk,31231278.6,None,10
+ULT,Ultiledger,ultiledger,30872315.41,None,10
+CWS,CWS,cws,30634981.2,Gaming,10
+CXO,CargoX,cargox-1,30472982.25,None,10
+OPIUM,Opium,opium,30329114.48,Derivatives,10
+CMT,CyberMiles,cybermiles,29511940.81,Enterprise and BaaS,10
+GBYTE,Obyte,byteball,29445924.3,Smart Contract Platforms,10
+ETP,Metaverse,metaverse,28950438.67,Smart Contract Platforms,10
+FOAM,FOAM,foam,28343052.07,None,10
+TRUE,TrueChain,truechain,27890398.81,Smart Contract Platforms,10
+NEW,Newton Project,newton-project,27701485.04,Smart Contract Platforms,10
+MDA,Moeda,moeda,27684148.14,Crowdfunding,10
+ABT,Arcblock,arcblock,27428753.07,Application Development,10
+WHITE,WHITE,white,27373885.67,None,10
+QLC,QLC Chain,qlc-chain,27307577.83,IoT,10
+TKY,THEKEY,thekey-1,26993155.03,None,10
+DLT,Agrello,agrello,26310681.3,Identity,10
+BLOCK,Blocknet,blocknet,26074253.59,Interoperability,10
+EVX,Everex,everex,25863524.43,Payment Platforms,10
+ADK,Aidos Kuneen,aidos-kuneen,25828506.09,None,10
+DOV,Dovu,dovu-1,25102671.8,None,10
+ACT,Achain,achain,25003793.25,Smart Contract Platforms,10
+DGTX,Digitex Futures,digitex-futures,24978107.62,Decentralized Exchanges,10
+YOYOW,YOYOW,yoyow,24805053.29,Content Creation and Distribution,10
+HIT,HitChain,hitchain,24580800,None,10
+VIB,Viberate,viberate,24466899.88,Content Creation and Distribution,10
+MINT,MINT,mint,24353668.55,Stablecoins,10
+ROOM,ROOM,room,24118739.51,Data Management,10
+ARMOR,ARMOR,armor,24088754.31,Asset Management,10
+SNM,SONM,sonm,23987912.3,Shared Compute,10
+SAKE,SakeToken,saketoken,23644509.69,None,10
+XDN,DigitalNote,digitalnote,23095861.45,,10
+MDS,MediShares,medishares,22788167.49,Healthcare,10
+DOS,DOS Network,dos-network,22686113.2,Data Management,10
+ANJ,Aragon Court,aragon-court,22592062.48,Misc,10
+ESS,Essentia,essentia-1,22321601.16,None,10
+FCT,Factom,factom,22316911.27,Enterprise and BaaS,10
+SNGLS,SingularDTV,singulardtv,22314766.29,Content Creation and Distribution,10
+NCT,PolySwarm,polyswarm,21914548.89,Security,10
+ROOBEE,ROOBEE,roobee,21799970.49,Asset Management,10
+SLP,Small Love Potion,small-love-potion,21694227.32,Gaming,10
+CGG,CGG,cgg,21374608.05,Gaming,10
+MAN,Matrix,matrix,21267655.36,AI,10
+VEE,BlockV,blockv,21261554.69,None,10
+CLO,Callisto Network,callisto-network,20974006.76,None,10
+BOLT,BOLT,bolt,20833018.3,Payment Platforms,10
+UNISTAKE,Unistake,unistake,20788046.38,Decentralized Exchanges,10
+DOWS,Shadows,shadows,20720493.65,Derivatives,10
+AUC,Auctus,auctus,20692670.81,None,10
+EGT,Egretia,egretia,20549507.09,Application Development,10
+SWRV,Swerve,swerve,20455852.72,Decentralized Exchanges,10
+ABYSS,The Abyss,the-abyss,20329279.99,Gaming,10
+BURST,Burst,burst,20026784.08,Smart Contract Platforms,10
+UBQ,Ubiq,ubiq,19824938.57,Enterprise and BaaS,10
+COVAL,Circuits of Value,circuits-of-value,19816671.11,None,10
+YFV,YFValue,yfvalue,19795702.68,None,10
+L2,Leverj,leverj,19570802.76,Derivatives,10
+PPC,Peercoin,peercoin,19557094.1,Currencies,10
+SRN,SIRIN LABS,sirin-labs,19504933.5,None,10
+CV,carVertical,carvertical,19406843.39,None,10
+TRADE,Unitrade,unitrade,19079695.81,None,10
+COV,Covesting,covesting-1,18970627.84,None,10
+MWAT,Restart Energy MWAT,restart-energy,18832618.23,Energy,10
+PICKLE,Pickle Finance,pickle-finance,18607862.67,Asset Management,10
+DTA,DATA,data,18270681.89,Advertising,10
+MFG,SyncFab,syncfab-1,18191795.91,None,10
+FLO,FLO,flo,17575635.33,Application Development,10
+UIP,UnlimitedIP,unlimitedip,17509760.46,Content Creation and Distribution,10
+PMA,PumaPay,pumapay,17331575.93,Payment Platforms,10
+CET,CoinEx Token,coinex-token,17086471.85,None,10
+SWFTC,SwftCoin,swftcoin,17000242.49,None,10
+PRT,Portion,portion,16928670.09,Tokenization,10
+RUFF,Ruff,ruff,16855674.59,IoT,10
+BAC,Basis Cash,basis-cash,16822813.3,Lending,10
