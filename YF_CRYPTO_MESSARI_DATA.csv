@@ -1,0 +1,297 @@
+,symbol,name,slug,marketcap,sector,category,lowername,yf_ticker,ticker,size
+1,BTC-USD,Bitcoin,bitcoin,9.26921E+11,Currencies,Payments,bitcoin,BTC-USD,BTC,99.96828251
+2,ETH-USD,Ethereum,ethereum,4.52187E+11,Smart Contract Platforms,Infrastructure,ethereum,ETH-USD,ETH,58.99496394
+3,BNB-USD,BNB,binance-coin,92696797882,Centralized Exchanges,Financial,bnb,BNB-USD,BNB,27.9681665
+4,USDT-USD,Tether,tether,57803811636,Stablecoins,Payments,tether,USDT-USD,USDT,24.9566272
+5,DOGE-USD,Dogecoin,dogecoin,53636867035,Currencies,Payments,dogecoin,DOGE-USD,DOGE,24.5969871
+6,ADA-USD,Cardano,cardano,51006293465,Smart Contract Platforms,Infrastructure,cardano,ADA-USD,ADA,24.3699479
+7,XRP-USD,XRP,xrp,50157739233,Currencies,Payments,xrp,XRP-USD,XRP,24.29671099
+8,DOT1-USD,Dotcoin,dotcoin,50157739233,Misc.,Misc.,dotcoin,DOT1-USD,DOT,24.29671099
+9,BCH-USD,Bitcoin Cash,bitcoin-cash,25468758430,Currencies,Payments,bitcoin cash,BCH-USD,BCH,22.16585766
+10,LTC-USD,Litecoin,litecoin,22155160034,Currencies,Payments,litecoin,LTC-USD,LTC,21.87986805
+11,UNI3-USD,Uniswap,uniswap,20030493274,Decentralized Exchanges,Financial,uniswap,UNI3-USD,UNI,21.69649258
+12,LINK-USD,Chainlink,chainlink,18154704032,Data Management,Services,chainlink,LINK-USD,LINK,21.53459721
+13,USDC-USD,Sola Token,sola-token,18154704032,Misc.,Misc.,sola token,USDC-USD,SOL,21.53459721
+14,XLM-USD,VeChain,vechain,11729293064,Smart Contract Platforms,Infrastructure,vechain,XLM-USD,VET,20.98003368
+15,SOL1-USD,Ethereum Classic,ethereum-classic,11244032872,Smart Contract Platforms,Infrastructure,ethereum classic,SOL1-USD,ETC,20.93815191
+16,VET-USD,Stellar,stellar,11013880123,Currencies,Payments,stellar,VET-USD,XLM,20.91828792
+17,ETC-USD,USD Coin,usd-coin,10856184217,Stablecoins,Payments,usd coin,ETC-USD,USDC,20.90467752
+18,EOS-USD,EOS,eos,10229486005,Smart Contract Platforms,Infrastructure,eos,EOS-USD,EOS,20.85058853
+19,HEX-USD,Hex,hex-2,9711977195,Misc.,Misc.,hex,HEX-USD,HEX,20.80592345
+20,THETA-USD,Theta Token,theta-token,9631957852,Content Creation and Distribution,Media and Entertainment,theta token,THETA-USD,THETA,20.79901715
+21,TRX-USD,TRON,tron,8317076402,Smart Contract Platforms,Infrastructure,tron,TRX-USD,TRX,20.68553253
+22,FIL-USD,Monero,monero,7159116477,Currencies,Payments,monero,FIL-USD,XMR,20.58559148
+23,XMR-USD,World Bitcoin,world-bitcoin,7159116477,Misc.,Misc.,world bitcoin,XMR-USD,WBTC,20.58559148
+24,NEO-USD,NEO,neo,7034685050,Smart Contract Platforms,Infrastructure,neo,NEO-USD,NEO,20.57485207
+25,AAVE-USD,Aave,aave,6866754163,Lending,Financial,aave,AAVE-USD,AAVE,20.56035831
+26,BSV-USD,Filecoin,filecoin,6712287253,File Storage,Infrastructure,filecoin,BSV-USD,FIL,20.5470266
+27,LUNA1-USD,Huobi Token,huobi-token,6356164376,Centralized Exchanges,Financial,huobi token,LUNA1-USD,HT,20.5162904
+28,MATIC-USD,Terra,terra,5773034349,Payment Platforms,Payments,terra,MATIC-USD,LUNA,20.46596168
+29,XTZ-USD,Bitcoin SV,bitcoin-sv,5763028371,Currencies,Payments,bitcoin sv,XTZ-USD,BSV,20.46509809
+30,MKR-USD,Polygon,polygon,5433298803,Scaling,Infrastructure,polygon,MKR-USD,MATIC,20.43663983
+31,ATOM1-USD,FTX Token,ftx-token,5413888175,Centralized Exchanges,Financial,ftx token,ATOM1-USD,FTT,20.43496454
+32,MIOTA-USD,Binance USD,binance-usd,5244811316,Stablecoins,Payments,binance usd,MIOTA-USD,BUSD,20.42037188
+33,AVAX-USD,Tezos,tezos,5211067623,Smart Contract Platforms,Infrastructure,tezos,AVAX-USD,XTZ,20.41745953
+34,KSM-USD,Maker,maker,5043293565,Lending,Financial,maker,KSM-USD,MKR,20.40297931
+35,ALGO-USD,Cosmos,cosmos,5023712799,Smart Contract Platforms,Infrastructure,cosmos,ALGO-USD,ATOM,20.40128934
+36,BTT1-USD,IOTA,iota,4970585801,IoT,Services,iota,BTT1-USD,MIOTA,20.39670406
+37,COMP-USD,PancakeSwap,pancakeswap,4904755455,Decentralized Exchanges,Financial,pancakeswap,COMP-USD,CAKE,20.39102238
+38,CRO-USD,Dai,dai,4789184844,Stablecoins,Payments,dai,CRO-USD,DAI,20.38104773
+39,DASH-USD,Avalanche,avalanche,4536612553,Smart Contract Platforms,Infrastructure,avalanche,DASH-USD,AVAX,20.35924875
+40,ZEC-USD,RuneStoneCoin,runestonecoin,4536612553,Misc.,Misc.,runestonecoin,ZEC-USD,RUNE,20.35924875
+41,WAVES-USD,Kusama,kusama,4136188819,Smart Contract Platforms,Infrastructure,kusama,WAVES-USD,KSM,20.32468904
+42,CTC1-USD,Crypto.com Chain,crypto-com-chain,4034743661,Payment Platforms,Payments,crypto.com chain,CTC1-USD,CRO,20.31593352
+43,EGLD-USD,Bitcoin Top,bitcoin-top,4034743661,Misc.,Misc.,bitcoin top,EGLD-USD,BTT,20.31593352
+44,XEM-USD,Compound,compound,3963567150,Lending,Financial,compound,XEM-USD,COMP,20.30979043
+45,DCR-USD,Unus Sed Leo,unus-sed-leo,3774248460,Centralized Exchanges,Financial,unus sed leo,DCR-USD,LEO,20.29345073
+46,YFI-USD,Dash,dash,3759537090,Currencies,Payments,dash,YFI-USD,DASH,20.29218103
+47,CHZ-USD,Algorand,algorand,3577581151,Smart Contract Platforms,Infrastructure,algorand,CHZ-USD,ALGO,20.2764768
+48,HBAR-USD,Waves,waves,3442443091,Smart Contract Platforms,Infrastructure,waves,HBAR-USD,WAVES,20.26481332
+49,ZIL-USD,Coin Artist,coin-artist,3442443091,Misc.,Misc.,coin artist,ZIL-USD,COIN,20.26481332
+50,SNX-USD,Zcash,zcash,3178817215,Currencies,Payments,zcash,SNX-USD,ZEC,20.24206033
+51,QTUM-USD,Elrond,elrond,2957944811,Smart Contract Platforms,Infrastructure,elrond,QTUM-USD,EGLD,20.22299731
+52,SUSHI-USD,NEM,new-economy-movement,2795340538,Smart Contract Platforms,Infrastructure,nem,SUSHI-USD,XEM,20.20896328
+53,MANA-USD,Autonio,autonio-2,2694161616,Misc.,Misc.,autonio,MANA-USD,NIO,20.20023074
+54,BAT-USD,yearn.finance,yearn-finance,2581866433,Asset Management,Financial,yearn.finance,BAT-USD,YFI,20.19053878
+55,ONT-USD,Decred,decred,2496503959,Currencies,Payments,decred,ONT-USD,DCR,20.18317133
+56,STX1-USD,Revain,revain,2460192038,Misc,Services,revain,STX1-USD,R,20.18003732
+57,STX1-USD,Chiliz,chiliz,2428069360,Misc,Media and Entertainment,chiliz,STX1-USD,CHZ,20.17726488
+58,ENJ-USD,OKB,okb,2141387743,Centralized Exchanges,Financial,okb,ENJ-USD,OKB,20.152522
+59,TFUEL-USD,Telcoin,telcoin,2140211271,Payment Platforms,Payments,telcoin,TFUEL-USD,TEL,20.15242047
+60,DFI-USD,Zilliqa,zilliqa,2117729683,Smart Contract Platforms,Infrastructure,zilliqa,DFI-USD,ZIL,20.15048013
+61,BTG-USD,Synthetix,synthetix,2114301584,Derivatives,Financial,synthetix,BTG-USD,SNX,20.15018426
+62,CEL-USD,Ultra Salescloud,ultra-salescloud,2114301584,Misc.,Misc.,ultra salescloud,CEL-USD,UST,20.15018426
+63,NANO-USD,Qtum,qtum,2079098575,Smart Contract Platforms,Infrastructure,qtum,NANO-USD,QTUM,20.14714596
+64,DGB-USD,Hedera Hashgraph,hedera-hashgraph,2070514391,Smart Contract Platforms,Infrastructure,hedera hashgraph,DGB-USD,HBAR,20.14640508
+65,GRT2-USD,SushiSwap,sushiswap,2059935624,Decentralized Exchanges,Financial,sushiswap,GRT2-USD,SUSHI,20.14549205
+66,UMA-USD,Nexo,nexo,2026293658,Lending,Financial,nexo,UMA-USD,NEXO,20.14258848
+67,ZEN-USD,Decentraland,decentraland,2010035929,Virtual and Augmented Reality,Media and Entertainment,decentraland,ZEN-USD,MANA,20.14118531
+68,SC-USD,Fei Protocol,fei-protocol,1967105673,Stablecoins,Financial,fei protocol,SC-USD,FEI,20.13748009
+69,BNT-USD,Hydro Protocol,hydro-protocol,10313956.13,Decentralized Exchanges,Financial,hydro protocol,BNT-USD,HOT,19.96859357
+70,OMG-USD,Ontology,ontology,1812117250,Smart Contract Platforms,Infrastructure,ontology,OMG-USD,ONT,20.12410337
+71,ZRX-USD,Basic Attention Token,basic-attention-token,1811894088,Advertising,Media and Entertainment,basic attention token,ZRX-USD,BAT,20.12408411
+72,BCN-USD,Stacks,stacks,1809808122,Smart Contract Platforms,Infrastructure,stacks,BCN-USD,STX,20.12390407
+73,ICX-USD,NEAR Protocol,near-protocol,1778358051,Smart Contract Platforms,Infrastructure,near protocol,ICX-USD,NEAR,20.12118969
+74,ARRR-USD,Enjin Coin,enjin-coin,1738854665,Gaming,Media and Entertainment,enjin coin,ARRR-USD,ENJ,20.11778023
+75,HNT1-USD,Bitcoin Gold,bitcoin-gold,1698211228,Currencies,Payments,bitcoin gold,HNT1-USD,BTG,20.11427238
+76,RVN-USD,DeFiChain,defichain,1690965729,Decentralized Exchanges,Financial,defichain,RVN-USD,DFI,20.11364704
+77,TUSD-USD,Fantom,fantom,1680110517,Smart Contract Platforms,Infrastructure,fantom,TUSD-USD,FTM,20.11271015
+78,ONE2-USD,Theta Fuel,theta-fuel,1676724778,Content Creation and Distribution,Media and Entertainment,theta fuel,ONE2-USD,TFUEL,20.11241793
+79,XWC-USD,Celsius Network,celsius,1663345568,Lending,Financial,celsius network,XWC-USD,CEL,20.1112632
+80,CELO-USD,Nano,nano,1655127287,Currencies,Payments,nano,CELO-USD,NANO,20.1105539
+81,CRV-USD,The Graph,the-graph,1654068134,Data Management,Infrastructure,the graph,CRV-USD,GRT,20.11046249
+82,CRV-USD,DigiByte,digibyte,1606440778,Currencies,Payments,digibyte,CRV-USD,DGB,20.10635187
+83,ANKR-USD,UMA,uma,1571355164,Derivatives,Financial,uma,ANKR-USD,UMA,20.10332371
+84,BCD-USD,Horizen,horizen,1546908674,Smart Contract Platforms,Infrastructure,horizen,BCD-USD,ZEN,20.10121378
+85,LSK-USD,Siacoin,siacoin,1477940480,File Storage,Services,siacoin,LSK-USD,SC,20.09526129
+86,AR-USD,OMG Network,omg-network,1422039029,Scaling,Infrastructure,omg network,AR-USD,OMG,20.09043655
+87,IOST-USD,0x,0x,1278346606,Decentralized Exchanges,Financial,0x,IOST-USD,ZRX,20.07803476
+88,XVG-USD,Bancor,bancor,1253361644,Decentralized Exchanges,Financial,bancor,XVG-USD,BNT,20.07587836
+89,VGX-USD,ICON,icon,1251628525,Enterprise and BaaS,Infrastructure,icon,VGX-USD,ICX,20.07572878
+90,LRC-USD,Ravencoin,ravencoin,1163428782,Currencies,Payments,ravencoin,LRC-USD,RVN,20.06811645
+91,CKB-USD,Helium,helium,1152736617,IoT,Infrastructure,helium,CKB-USD,HNT,20.06719363
+92,AMP1-USD,Swissborg,swissborg,1097789251,Asset Management,Financial,swissborg,AMP1-USD,CHSB,20.06245124
+93,KNC-USD,WhiteCoin,whitecoin,1060296754,Currencies,Payments,whitecoin,KNC-USD,XWC,20.05921535
+94,RLC-USD,Harmony,harmony,1058808851,Smart Contract Platforms,Infrastructure,harmony,RLC-USD,ONE,20.05908693
+95,SNT-USD,Vsync,vsync,1058808851,Misc.,Misc.,vsync,SNT-USD,XVS,20.05908693
+96,MIR1-USD,Curve,curve,1010224342,Decentralized Exchanges,Financial,curve,MIR1-USD,CRV,20.0548937
+97,STORJ-USD,Paxos Standard Token,paxos-standard-token,982802368.5,Stablecoins,Payments,paxos standard token,STORJ-USD,PAX,20.05252697
+98,VTHO-USD,Ankr Network,ankr-network,964910978.3,Shared Compute,Services,ankr network,VTHO-USD,ANKR,20.0509828
+99,QNT-USD,XinFin Network,xinfin-network,938987005.8,Misc.,Misc.,xinfin network,QNT-USD,XDCE,20.04874536
+100,EWT-USD,Lisk,lisk,935941119.1,Application Development,Infrastructure,lisk,EWT-USD,LSK,20.04848248
+101,SRM-USD,1inch,1inch,935285127.4,Decentralized Exchanges,Financial,1inch,SRM-USD,1INCH,20.04842586
+102,IOTX-USD,Reserve Rights,reserve-rights,930643230.5,Asset Management,Financial,reserve rights,IOTX-USD,RSR,20.04802523
+103,IOTX-USD,Celo,celo,919357116.2,Smart Contract Platforms,Infrastructure,celo,IOTX-USD,CELO,20.04705115
+104,REP-USD,Arweave,arweave,908684638.2,File Storage,Services,arweave,REP-USD,AR,20.04613003
+105,GNO-USD,KuCoin,kucoin,906953192,Centralized Exchanges,Financial,kucoin,GNO-USD,KCS,20.04598059
+106,KAVA-USD,Bitcoin Diamond,bitcoin-diamond,903487054.6,Currencies,Payments,bitcoin diamond,KAVA-USD,BCD,20.04568143
+107,FUN-USD,IOST,iost,846992247.1,Smart Contract Platforms,Infrastructure,iost,FUN-USD,IOST,20.04080549
+108,FET-USD,Verge,verge,845929373,Currencies,Payments,verge,FET-USD,XVG,20.04071375
+109,WAXP-USD,Content Value Network,content-value-network,844316084.5,Content Creation and Distribution,Media and Entertainment,content value network,WAXP-USD,CVNT,20.04057451
+110,ANT-USD,Ren,ren,840614226,Interoperability,Financial,ren,ANT-USD,REN,20.04025501
+111,STEEM-USD,Flow,flow,817929376.6,Smart Contract Platforms,Infrastructure,flow,STEEM-USD,FLOW,20.03829713
+112,ARDR-USD,Loopring,loopring,780407864.8,Decentralized Exchanges,Financial,loopring,ARDR-USD,LRC,20.03505873
+113,ABBC-USD,Ethos,ethos,762393553.2,Wallet,Financial,ethos,ABBC-USD,ETHOS,20.03350395
+114,MCO-USD,Livepeer,livepeer,743447418.5,Shared Compute,Infrastructure,livepeer,MCO-USD,LPT,20.03186875
+115,KMD-USD,,flexacoin-old,743447418.5,Misc.,Misc.,,KMD-USD,FXC,20.03186875
+116,WAN-USD,HUSD,husd,701418547.1,Stablecoins,Currency,husd,WAN-USD,HUSD,20.02824133
+117,CVC-USD,ECOMI,ecomi,699076828.8,Misc.,Misc.,ecomi,CVC-USD,OMI,20.02803922
+118,NKN-USD,Pundi X,pundi-x,685215625.1,Payment Platforms,Payments,pundi x,NKN-USD,NPXS,20.02684289
+119,NKN-USD,Nervos Network,nervos-network,678071182.5,Smart Contract Platforms,Infrastructure,nervos network,NKN-USD,CKB,20.02622627
+120,BAND-USD,Conflux Network,conflux-network,659897038.4,Smart Contract Platforms,Infrastructure,conflux network,BAND-USD,CFX,20.0246577
+121,MAID-USD,HyperSpace,hyperspace,6709877.256,Misc.,Misc.,hyperspace,MAID-USD,AMP,19.96828251
+122,BTS-USD,Dent,dent,624557395.7,Data Management,Services,dent,BTS-USD,DENT,20.02160761
+123,BTM-USD,Kyber Network,kyber-network,618087764.1,Decentralized Exchanges,Financial,kyber network,BTM-USD,KNC,20.02104923
+124,ETN-USD,iExec RLC,iexec-rlc,594322304.6,Shared Compute,Services,iexec rlc,ETN-USD,RLC,20.01899808
+125,XHV-USD,renBTC,renbtc,576738224.8,Currencies,Payments,renbtc,XHV-USD,RENBTC,20.01748044
+126,MED-USD,Status,status,546259024.9,Application Development,Infrastructure,status,MED-USD,SNT,20.01484984
+127,NU-USD,,ocean,546259024.9,Misc.,Misc.,,NU-USD,OCEAN,20.01484984
+128,HNC-USD,Reef Finance,reef-finance,528812565.4,Asset Management,Financial,reef finance,HNC-USD,REEF,20.01334408
+129,AVA-USD,MIR COIN,mir-coin,528812565.4,Misc.,Misc.,mir coin,AVA-USD,MIR,20.01334408
+130,KIN-USD,Raydium,raydium,498389568.3,Decentralized Exchanges,Financial,raydium,KIN-USD,RAY,20.01071833
+131,ARK-USD,Alpha Finance,alpha-finance,496463327.8,Asset Management,Financial,alpha finance,ARK-USD,ALPHA,20.01055208
+132,TWT-USD,SKALE Network,skale-network,481951001.5,Scaling,Infrastructure,skale network,TWT-USD,SKL,20.00929956
+133,SYS-USD,WazirX,wazirx,481563843.3,Centralized Exchanges,Financial,wazirx,SYS-USD,WRX,20.00926614
+134,MTL-USD,Quant Network,quant-network,467642807.4,Interoperability,Infrastructure,quant network,MTL-USD,QNT,20.00806465
+135,MTL-USD,VeThor Token,vethor-token,463731401.3,Smart Contract Platforms,Infrastructure,vethor token,MTL-USD,VTHO,20.00772706
+136,REV-USD,Storj,storj,451339140.6,File Storage,Services,storj,REV-USD,STORJ,20.00665751
+137,DIVI-USD,Wootrade Network,wootrade-network,444081096.9,Decentralized Exchanges,Financial,wootrade network,DIVI-USD,WOO,20.00603108
+138,OXT-USD,Serum,serum,443651469.4,Decentralized Exchanges,Financial,serum,OXT-USD,SRM,20.005994
+139,RDD-USD,Balancer,balancer,443328283.1,Decentralized Exchanges,Financial,balancer,RDD-USD,BAL,20.00596611
+140,MLN-USD,Energy Web,energy-web,438293998.7,Energy,Infrastructure,energy web,MLN-USD,EWT,20.00553161
+141,PPT-USD,Injective Protocol,injective-protocol,425492397.8,Derivatives,Financial,injective protocol,PPT-USD,INJ,20.00442673
+142,AION-USD,HedgeTrade,hedgetrade,420370904.4,Misc.,Misc.,hedgetrade,AION-USD,HEDG,20.00398471
+143,FIRO-USD,IoTeX,iotex,418130878.1,IoT,Services,iotex,FIRO-USD,IOTX,20.00379138
+144,HIVE-USD,Augur,augur,411830272.8,Prediction Markets,Financial,augur,HIVE-USD,REP,20.00324758
+145,META-USD,Tribe,tribe,397677370.3,Stablecoins,Financial,tribe,META-USD,TRIBE,20.00202608
+146,META-USD,Golem,golem,396736094.4,Shared Compute,Services,golem,META-USD,GNT,20.00194484
+147,HNS-USD,Mixin,mixin,394007891,Decentralized Exchanges,Financial,mixin,HNS-USD,XIN,20.00170937
+148,TOMO-USD,Gnosis,gnosis,392776365.5,Prediction Markets,Financial,gnosis,TOMO-USD,GNO,20.00160308
+149,TOMO-USD,Axie Infinity,axie-infinity,390884098.6,Gaming,Media and Entertainment,axie infinity,TOMO-USD,AXS,20.00143977
+150,SNM-USD,Kava,kava,374202361.2,Lending,Financial,kava,SNM-USD,KAVA,20
+151,PAC-USD,OGNCoin,ogncoin,374202361.2,Misc.,Misc.,ogncoin,PAC-USD,OGN,20
+152,BCN-USD,FunFair,funfair,359805338.2,Gambling,Media and Entertainment,funfair,BCN-USD,FUN,19.99875742
+153,DNT-USD,Swipe,swipe,359622064.7,Payment Platforms,Financial,swipe,DNT-USD,SXP,19.99874161
+154,IRIS-USD,Tokocrypto,tokocrypto,352591081.6,Misc.,Misc.,tokocrypto,IRIS-USD,TKO,19.99813478
+155,MONA-USD,Fetch.ai,fetch-ai,348928152.8,AI,Infrastructure,fetch.ai,MONA-USD,FET,19.99781864
+156,ELA-USD,StormX,storm,336374243.8,Rewards,Payments,stormx,ELA-USD,STMX,19.99673514
+157,KDA-USD,Steem,steem,333777788.5,Content Creation and Distribution,Media and Entertainment,steem,KDA-USD,STEEM,19.99651104
+158,KDA-USD,ABBC Coin,abbc-coin,333105493.8,Payment Platforms,Payments,abbc coin,KDA-USD,ABBC,19.99645302
+159,ATRI-USD,Aragon Network,aragon-network,332864097.3,Misc,Infrastructure,aragon network,ATRI-USD,ANT,19.99643218
+160,ATRI-USD,DODO,dodo,325922885.5,Decentralized Exchanges,Financial,dodo,ATRI-USD,DODO,19.9958331
+162,ADX-USD,WAX,wax,320957123.1,Collectibles,Media and Entertainment,wax,ADX-USD,WAXP,19.99540452
+163,WTC-USD,Komodo,komodo,319611075.8,Interoperability,Infrastructure,komodo,WTC-USD,KMD,19.99528834
+164,GAS-USD,Wanchain,wanchain,317655515.2,Interoperability,Infrastructure,wanchain,GAS-USD,WAN,19.99511956
+165,CRU-USD,Crypto.com,crypto-com,315501809.8,Payment Platforms,Payments,crypto.com,CRU-USD,MCO,19.99493368
+166,CSC-USD,Civic,civic,314392807,Identity,Services,civic,CSC-USD,CVC,19.99483796
+167,VRA-USD,ZKS,zks,312418840.1,Decentralized Exchanges,Financial,zks,VRA-USD,ZKS,19.9946676
+168,NRG-USD,Dawn,dawn,311550394.8,Rewards,Media and Entertainment,dawn,NRG-USD,DAWN,19.99459264
+169,BEAM-USD,Bitcoin Minor,bitcoin-minor,311550394.8,Misc.,Misc.,bitcoin minor,BEAM-USD,BTM,19.99459264
+170,AE-USD,NKN,nkn,309722468,IoT,Infrastructure,nkn,AE-USD,NKN,19.99443488
+171,AE-USD,Band Protocol,band-protocol,308389272.3,Data Management,Infrastructure,band protocol,AE-USD,BAND,19.99431981
+173,NULS-USD,RedFOX Labs,redfox-labs,304315739.2,Tokenization,Media and Entertainment,redfox labs,NULS-USD,RFOX,19.99396823
+174,DAG-USD,Maidsafe,maidsafe,303935269.8,Data Management,Services,maidsafe,DAG-USD,MAID,19.9939354
+175,TT-USD,The Sandbox,thesandbox,302959498.3,Gaming,Media and Entertainment,the sandbox,TT-USD,SAND,19.99385118
+176,NXS-USD,TrueUSD,trueusd,299554469.9,Stablecoins,Payments,trueusd,NXS-USD,TUSD,19.9935573
+177,MWC-USD,BitShares,bitshares,299179899.4,Smart Contract Platforms,Financial,bitshares,MWC-USD,BTS,19.99352497
+178,GRS-USD,Electroneum,electroneum,292250517.5,Payment Platforms,Payments,electroneum,GRS-USD,ETN,19.99292691
+179,GRS-USD,Cartesi,cartesi,288299514.7,Smart Contract Platforms,Infrastructure,cartesi,GRS-USD,CTSI,19.99258591
+180,FSN-USD,LINA,lina,288299514.7,Misc.,Misc.,lina,FSN-USD,LINA,19.99258591
+181,PIVX-USD,Haven Protocol,haven-protocol,285383973.9,Misc.,Misc.,haven protocol,PIVX-USD,XHV,19.99233427
+182,CTXC-USD,Numeraire,numeraire,279844519.7,Asset Management,Financial,numeraire,CTXC-USD,NMR,19.99185618
+183,CTXC-USD,MediBloc,medibloc-qrc20,278799931.1,Misc.,Misc.,medibloc,CTXC-USD,MED,19.99176602
+184,GRN-USD,Dimecoin,dimecoin,276904492.5,Misc.,Misc.,dimecoin,GRN-USD,DIME,19.99160243
+185,CET-USD,UTRUST,utrust,272870614.4,Payment Platforms,Payments,utrust,CET-USD,UTK,19.99125427
+186,CET-USD,Badger DAO,badger-dao,267085556,Decentralized Exchanges,Financial,badger dao,CET-USD,BADGER,19.99075498
+187,HC-USD,Swisscoin,swisscoin,262626937.7,Misc.,Misc.,swisscoin,HC-USD,SIC,19.99037016
+188,GXC-USD,NuCypher,nucypher,260983100.9,Data Management,Infrastructure,nucypher,GXC-USD,NU,19.99022829
+189,GXC-USD,Keep Network,keep-network,259384899.2,Interoperability,Infrastructure,keep network,GXC-USD,KEEP,19.99009035
+190,VITE-USD,Uquid Coin,uquid-coin,259367894.6,Misc.,Misc.,uquid coin,VITE-USD,UQC,19.99008888
+191,WICC-USD,SingularityNET,singularitynet,258836739.5,AI,Services,singularitynet,WICC-USD,AGI,19.99004304
+192,EMC2-USD,JUST,just,247850663.6,Decentralized Exchanges,Financial,just,EMC2-USD,JST,19.98909485
+193,RBTC-USD,Travala.com,travala-com,247783123.8,Payment Platforms,Payments,travala.com,RBTC-USD,AVA,19.98908902
+194,LOKI-USD,Orbs,orbs,242136068.6,Enterprise and BaaS,Infrastructure,orbs,LOKI-USD,ORBS,19.98860164
+195,SOLVE-USD,TrustSwap,trustswap,240215075.9,Misc.,Misc.,trustswap,SOLVE-USD,SWAP,19.98843584
+196,SOLVE-USD,Celer Network,celer-network,238985910.7,Scaling,Infrastructure,celer network,SOLVE-USD,CELR,19.98832976
+197,VSYS-USD,ZB,zb,236277295.2,Centralized Exchanges,Financial,zb,VSYS-USD,ZB,19.98809598
+198,LBC-USD,Rocket Pool,rocket-pool,231908716.3,Derivatives,Financial,rocket pool,LBC-USD,RPL,19.98771894
+199,LBC-USD,Ark,ark,231188989.4,Interoperability,Infrastructure,ark,LBC-USD,ARK,19.98765682
+200,DGD-USD,Syscoin,syscoin,226525479.7,Scaling,Infrastructure,syscoin,DGD-USD,SYS,19.98725432
+201,DGD-USD,Metal,metal,225020722.1,Payment Platforms,Payments,metal,DGD-USD,MTL,19.98712445
+202,IOTX-USD,Trust Wallet Token,trust-wallet-token,224920000.4,Misc.,Misc.,trust wallet token,IOTX-USD,TWT,19.98711576
+203,IOTX-USD,Kin,kin,223828479.6,Social Media,Media and Entertainment,kin,IOTX-USD,KIN,19.98702155
+204,REP-USD,Audius,audius,221013603.7,Content Creation and Distribution,Media and Entertainment,audius,REP-USD,AUDIO,19.9867786
+205,GNO-USD,Unibright,unibright-1,220192566.3,Misc.,Misc.,unibright,GNO-USD,UBT,19.98670774
+206,KAVA-USD,ReddCoin,reddcoin,215254843.2,Currencies,Payments,reddcoin,KAVA-USD,RDD,19.98628158
+207,FUN-USD,SafePal,safepal,214950205.3,Wallet,Infrastructure,safepal,FUN-USD,SFP,19.98625529
+208,WAXP-USD,Ontology Gas,ontology-gas,212487911,Smart Contract Platforms,Infrastructure,ontology gas,WAXP-USD,ONG,19.98604277
+209,FET-USD,Neutrino Dollar,neutrino-dollar,212283786.1,Stablecoins,Payments,neutrino dollar,FET-USD,USDN,19.98602515
+210,ANT-USD,Polymath,polymath,208229799.1,Asset Management,Financial,polymath,ANT-USD,POLY,19.98567526
+211,STEEM-USD,Diamond,diamond,205266793.9,Misc.,Misc.,diamond,STEEM-USD,DMD,19.98541953
+212,ARDR-USD,Orchid,orchid,203474479.6,Data Management,Services,orchid,ARDR-USD,OXT,19.98526484
+213,ABBC-USD,ælf,aelf,203473304.2,Shared Compute,Services,ælf,ABBC-USD,ELF,19.98526474
+214,MCO-USD,Ampleforth,ampleforth,200588880.3,Currencies,Payments,ampleforth,MCO-USD,AMPL,19.98501579
+215,KMD-USD,Enzyme Finance,enzyme-finance,200586900.2,Asset Management,Financial,enzyme finance,KMD-USD,MLN,19.98501562
+216,WAN-USD,The Open Application Network,the-open-application-network,198793637.7,Smart Contract Platforms,Infrastructure,the open application network,WAN-USD,AION,19.98486085
+217,CVC-USD,SecretCoin,secretcoin,198793637.7,Misc.,Misc.,secretcoin,CVC-USD,SCRT,19.98486085
+218,NKN-USD,RIF Token,rif-token,194900301.1,Application Development,Infrastructure,rif token,NKN-USD,RIF,19.98452482
+219,BAND-USD,Sora,sora,193590337.8,Smart Contract Platforms,Infrastructure,sora,BAND-USD,XOR,19.98441176
+220,BAND-USD,Populous,populous,192523593.9,Payment Platforms,Financial,populous,BAND-USD,PPT,19.98431969
+221,MAID-USD,Firo,firo,192390077.2,Currencies,Payments,firo,MAID-USD,FIRO,19.98430817
+222,BTS-USD,Wrapped Nexus Mutual,wrapped-nexus-mutual,191381554.4,Misc,Financial,wrapped nexus mutual,BTS-USD,WNXM,19.98422113
+223,BTM-USD,Origintrail,origintrail,190200343.3,Data Management,Services,origintrail,BTM-USD,TRAC,19.98411918
+224,ETN-USD,Alice,alice,188434572.6,Gaming,Media and Entertainment,alice,ETN-USD,ALICE,19.98396678
+225,XHV-USD,Power Ledger,power-ledger,188245502.1,Energy,Services,power ledger,XHV-USD,POWR,19.98395046
+226,MED-USD,Polkastarter,polkastarter,187189180.3,Crowdfunding,Financial,polkastarter,MED-USD,POLS,19.98385929
+227,NU-USD,Oasis Network,oasis-labs,184586283.2,Smart Contract Platforms,Infrastructure,oasis network,NU-USD,ROSE,19.98363464
+228,HNC-USD,Hive,hive,184357089.3,Content Creation and Distribution,Media and Entertainment,hive,HNC-USD,HIVE,19.98361486
+229,AVA-USD,TomoChain,tomochain,178662491.3,Smart Contract Platforms,Infrastructure,tomochain,AVA-USD,TOMO,19.98312337
+230,KIN-USD,Kleros,kleros-1,177850793.2,Misc.,Misc.,kleros,KIN-USD,PNK,19.98305331
+231,ARK-USD,Atari,atari,176861489.4,Misc.,Misc.,atari,ARK-USD,ATRI,19.98296793
+232,BCN-USD,SuperCoin,supercoin,91876624.86,Misc.,Misc.,supercoin,BCN-USD,SUPER,19.97563307
+233,SYS-USD,Handshake,handshake,174753240.9,Misc,Infrastructure,handshake,SYS-USD,HNS,19.98278597
+234,TWT-USD,Game Protocol,game-protocol,174753240.9,Misc.,Misc.,game protocol,TWT-USD,,19.98278597
+235,TWT-USD,CVT,cvt,174753240.9,Currencies,Payments,cvt,TWT-USD,CVT,19.98278597
+236,MTL-USD,RAMP,ramp,172063392.3,Interoperability,Financial,ramp,MTL-USD,RAMP,19.98255382
+237,RDD-USD,Perpetual Protocol,perpetual-protocol,170875094.6,Derivatives,Financial,perpetual protocol,RDD-USD,PERP,19.98245126
+238,REV-USD,SpaceChain,spacechain-1,169468400,Misc.,Misc.,spacechain,REV-USD,SPC,19.98232985
+239,DIVI-USD,PARSIQ,parsiq,165793479.8,Misc.,Misc.,parsiq,DIVI-USD,PRQ,19.98201267
+240,OXT-USD,BORA,bora,165600228.5,Misc.,Misc.,bora,OXT-USD,BORA,19.98199599
+241,MLN-USD,Monavale,monavale,8494208.738,Virtual and Augmented Reality,Media and Entertainment,monavale,MLN-USD,MONA,19.96843651
+242,PPT-USD,SONM,sonm,163693703.3,Shared Compute,Services,sonm,PPT-USD,SNM,19.98183145
+243,AION-USD,Quarkchain,quarkchain,162471383.4,Smart Contract Platforms,Infrastructure,quarkchain,AION-USD,QKC,19.98172595
+244,FIRO-USD,district0x,district0x,162166482.6,Application Development,Infrastructure,district0x,FIRO-USD,DNT,19.98169964
+245,HIVE-USD,Lithiumcoin,lithiumcoin,162166482.6,Misc.,Misc.,lithiumcoin,HIVE-USD,LIT,19.98169964
+246,META-USD,IRISnet,iris-network,160832322.2,Interoperability,Infrastructure,irisnet,META-USD,IRIS,19.98158449
+247,META-USD,Metadium,metadium,158849709.2,Identity,Services,metadium,META-USD,META,19.98141337
+248,TOMO-USD,Tellor,tellor,158689701.3,Data Management,Infrastructure,tellor,TOMO-USD,TRB,19.98139956
+249,HNS-USD,Devery,devery-1,158641925.9,Misc.,Misc.,devery,HNS-USD,EVE,19.98139544
+250,HNS-USD,Bytecoin,bytecoin,158640342.9,Currencies,Payments,bytecoin,HNS-USD,BCN,19.9813953
+251,SNM-USD,Troy Trade,troy-trade,154590458.8,Asset Management,Financial,troy trade,SNM-USD,TROY,19.98104576
+252,PAC-USD,EducoinV,educoinv,154590458.8,Misc.,Misc.,educoinv,PAC-USD,EDC,19.98104576
+253,DNT-USD,Burger Swap,burger-swap,150303382.7,Misc.,Misc.,burger swap,DNT-USD,BURGER,19.98067576
+254,IRIS-USD,Elastos,elastos,149104187.3,Data management,Infrastructure,elastos,IRIS-USD,ELA,19.98057226
+255,MONA-USD,Synthetix USD,synthetix-usd,147732590.3,Stablecoins,Financial,synthetix usd,MONA-USD,SUSD,19.98045388
+256,ELA-USD,Hxro,hxro-games,143927587.4,Centralized Exchanges,Financial,hxro,ELA-USD,HXRO,19.98012547
+257,KDA-USD,LockTrip,locktrip,143357151.2,Payment Platforms,Payments,locktrip,KDA-USD,LOC,19.98007624
+258,KDA-USD,Rally,rally,142265582.3,Tokenization,Media and Entertainment,rally,KDA-USD,RLY,19.97998203
+259,ATRI-USD,Kadena,kadena,141304153.6,Smart Contract Platforms,Infrastructure,kadena,ATRI-USD,KDA,19.97989905
+260,ATRI-USD,FRAX,frax,139749643.3,Stablecoins,Payments,frax,ATRI-USD,FRAX,19.97976489
+262,ADX-USD,bZx Network,bzx-network,136439346.5,Lending,Financial,bzx network,ADX-USD,bzrx,19.97947918
+263,GAS-USD,Whale,whale,131716013.9,Misc,Financial,whale,GAS-USD,WHALE,19.97907152
+264,WTC-USD,Mainframe,mainframe,130795184.9,Lending,Financial,mainframe,WTC-USD,MFT,19.97899205
+265,CRU-USD,Adex,adex,129847504.5,Advertising,Media and Entertainment,adex,CRU-USD,ADX,19.97891025
+266,CSC-USD,Chromia,chromia,128827161,Application Development,Infrastructure,chromia,CSC-USD,CHR,19.97882219
+267,VRA-USD,Ultra,ultra,128097167.7,Gaming,Media and Entertainment,ultra,VRA-USD,UOS,19.97875919
+268,NRG-USD,NEO GAS,neo-gas,126141314.9,Smart Contract Platforms,Infrastructure,neo gas,NRG-USD,GAS,19.97859038
+269,BEAM-USD,Gemini Dollar,gemini-dollar,125405654.1,Stablecoins,Payments,gemini dollar,BEAM-USD,GUSD,19.97852689
+270,AE-USD,LTO Network,lto-network,125279984.4,Enterprise and BaaS,Infrastructure,lto network,AE-USD,LTO,19.97851604
+271,AE-USD,Waltonchain,waltonchain,123596342.8,IoT,Infrastructure,waltonchain,AE-USD,WTC,19.97837073
+273,NULS-USD,Tokenlon,tokenlon,121624321.2,Decentralized Exchanges,Financial,tokenlon,NULS-USD,LON,19.97820053
+274,DAG-USD,Loom Network,loom-network,116717666.4,Enterprise and BaaS,Infrastructure,loom network,DAG-USD,LOOM,19.97777704
+275,TT-USD,Akropolis,akropolis,116615198,Lending,Financial,akropolis,TT-USD,AKRO,19.9777682
+276,MWC-USD,Streamr,streamr,116070884.2,Data Management,Services,streamr,MWC-USD,DATA,19.97772122
+277,NXS-USD,QuickSwap,quickswap,115864189.4,Decentralized Exchanges,Financial,quickswap,NXS-USD,QUICK,19.97770338
+278,GRS-USD,Request Network,request-network,113694822.7,Misc,Financial,request network,GRS-USD,REQ,19.97751615
+279,GRS-USD,Aeternity,aeternity,113676462,Smart Contract Platforms,Infrastructure,aeternity,GRS-USD,AE,19.97751456
+280,CTXC-USD,Beam,beam,112409620.5,Wallet,Payments,beam,CTXC-USD,BEAM,19.97740523
+281,FSN-USD,Shopping.io,shopping-io,111985994.9,Rewards,Payments,shopping.io,FSN-USD,SPI,19.97736866
+282,PIVX-USD,Verasity,verasity-1,111896380,Misc.,Misc.,verasity,PIVX-USD,VRA,19.97736093
+283,PIVX-USD,Energi,energi,111889491.7,Smart Contract Platforms,Financial,energi,PIVX-USD,NRG,19.97736034
+284,GRN-USD,BarnBridge,barnbridge,111676523.6,Derivatives,Financial,barnbridge,GRN-USD,BOND,19.97734195
+285,CET-USD,PAX Gold,pax-gold,110297644.4,Misc.,Misc.,pax gold,CET-USD,PAXG,19.97722295
+286,GXC-USD,DIA,dia,109541483.2,Data Management,Infrastructure,dia,GXC-USD,DIA,19.97715768
+287,GXC-USD,DFI.Money,dfi-money,108986540.5,Asset Management,Financial,dfi.money,GXC-USD,YFII,19.97710979
+288,HC-USD,Rari Governance Token,rari-governance-token,108793805.3,Asset Management,Financial,rari governance token,HC-USD,RGT,19.97709315
+289,VITE-USD,Bella,bella,108030203.3,Asset Management,Financial,bella,VITE-USD,BEL,19.97702725
+290,VITE-USD,Eidoo,eidoo,107049995.5,Centralized Exchanges,Financial,eidoo,VITE-USD,EDO,19.97694265
+291,WICC-USD,DEGO,dego,107049995.5,Misc.,Infrastructure,dego,WICC-USD,DEGO,19.97694265
+292,EMC2-USD,VSP,vsp,103988642.7,Decentralized Exchanges,Financial,vsp,EMC2-USD,VSP,19.97667843
+293,RBTC-USD,Constellation Labs,constellation-labs,103304353.2,Data Management,Services,constellation labs,RBTC-USD,DAG,19.97661937
+294,LOKI-USD,Cashtakers,cashtakers,103304353.2,Misc.,Misc.,cashtakers,LOKI-USD,CTK,19.97661937
+295,SOLVE-USD,NULS,nuls,102297489.9,Enterprise and BaaS,Infrastructure,nuls,SOLVE-USD,NULS,19.97653247
+296,SOLVE-USD,Nexus,nexus-2,101162169.5,Enterprise and BaaS,Infrastructure,nexus,SOLVE-USD,NXS,19.97643448
+297,VSYS-USD,SFI,sfi,101162169.5,Misc.,Misc.,sfi,VSYS-USD,SFI,19.97643448
+298,LBC-USD,Lido DAO,lido-dao,96552735.42,Derivatives,Financial,lido dao,LBC-USD,LDO,19.97603665
+299,DGD-USD,Gala,gala,95854768.2,Misc.,Misc.,gala,DGD-USD,GALA,19.97597641
+300,DGD-USD,Groestlcoin,groestlcoin,95044767.62,Currencies,Payments,groestlcoin,DGD-USD,GRS,19.9759065
