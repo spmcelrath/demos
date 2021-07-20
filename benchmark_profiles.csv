@@ -1,0 +1,7 @@
+﻿,ticker,name,slug,marketcap,sector,category,symbol,size
+0,CCI30,CCi30,cci30,,Index,Cryptoasset,CCI30,100
+1,BITX,Bitwise 10,bitx,,Index,Cryptoasset,BITX,100
+2,BITW20,Bitwise 20,bitw20,,Index,Cryptoasset,BITW20,100
+3,BITW70,Bitwise 70,bitw70,,Index,Cryptoasset,BITW70,100
+4,BITW100,Bitwise 100,bitw100,,Index,Cryptoasset,BITW100,100
+5,GSPC,S&P 500,sp500,,Index,Equities,^GSPC,100
